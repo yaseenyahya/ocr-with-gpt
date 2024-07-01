@@ -72,16 +72,17 @@ console.log(imagePath)
     const gptResponse = await openai.chat.completions.create({
       model: 'gpt-3.5-turbo',
       messages: [{ role: 'system', content: text + ` 
-        (fill this and only show this output {
+        (fill this and only show this json output {
 name:"",
 board:"",
 totalMarks:"",
 college:"",
 city:"",
 group:"",
-      } group comes from top its like science, pre-engineering,medical or etc 
+      }  
+group comes from top its like science, pre-engineering,medical or etc 
   show totalmarks in numbers
-  dont show character , in any field)
+  dont show characters , in any field value)
   `}]
     });
 
