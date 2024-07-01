@@ -14,6 +14,6 @@ This project integrates Tesseract WebAssembly (WASM) with OpenAI's capabilities 
 
 - **Tested with Marksheet**: The current application has been thoroughly tested with marksheet documents, ensuring reliability and accuracy in extracting text content.
 
-<img src="ocr app with ai screenshot 1.png" alt="ocr app with gpt 3.5 screenshot 1" width="300" height="200">
-<img src="ocr app with ai screenshot 2.png" alt="ocr app with gpt 3.5 screenshot 2" width="300" height="200">
+<img src="ocr app with ai screenshot 1.png" alt="ocr app with gpt 3.5 screenshot 1" width="500" >
+<img src="ocr app with ai screenshot 2.png" alt="ocr app with gpt 3.5 screenshot 2" width="500" >
 
